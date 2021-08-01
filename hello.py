@@ -1,2 +1,2 @@
 print(hello)
-import
+print(123)
